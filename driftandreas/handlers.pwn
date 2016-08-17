@@ -1,0 +1,7 @@
+#include "driftandreas\accounts\accounts.handlers.pwn"
+#include "driftandreas\test0\test0.handlers.pwn"
+#include "driftandreas\test1\test1.handlers.pwn"
+#include "driftandreas\test2\test2.handlers.pwn"
+#include "driftandreas\test3\test3.handlers.pwn"
+#include "driftandreas\houses\houses.handlers.pwn"
+#include "driftandreas\teleports\teleports.handlers.pwn"

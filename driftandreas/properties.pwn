@@ -1,0 +1,7 @@
+#include "driftandreas\accounts\accounts.properties.pwn"
+#include "driftandreas\test0\test0.properties.pwn"
+#include "driftandreas\test1\test1.properties.pwn"
+#include "driftandreas\test2\test2.properties.pwn"
+#include "driftandreas\test3\test3.properties.pwn"
+#include "driftandreas\houses\houses.properties.pwn"
+#include "driftandreas\teleports\teleports.properties.pwn"
