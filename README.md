@@ -1,3 +1,7 @@
-# DriftAndreas
+# DriftAndreas + Neat.v1
 
-Игровой сервер SA:MP. Разработка собственного фреймворка "Neat.v1". Работа с MySQL. Внедрение динамической памяти в язык Pawn. Разработка псевдо-объектов для языка Pawn. Работа с препроцессором.
+It's a SA:MP game server. Development of self-made framework called Neat.v1 for Pawn that fundamentally expands selection of features. For example, it adds dynamic memory, event system, pseudo-object-oriented approach, included ORM for work with MySQL.
+
+Used skills:
+- Pawn
+- Creativity
